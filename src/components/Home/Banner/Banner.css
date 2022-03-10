@@ -1,0 +1,36 @@
+.banner-image {
+  width: 100%;
+}
+.banner-info {
+  position: absolute;
+  top: 0;
+  margin: 0 auto;
+  width: 100%;
+  top: 135px;
+}
+.banner-info h2{
+    margin-bottom: 25px;
+}
+.search-field-div {
+  position: relative;
+  margin: 0 auto;
+  width: 500px;
+}
+.search-field {
+  width: 370px;
+  border-radius: 23px;
+  display: inline;
+}
+.search-button {
+  background-color: #fa1945;
+  color: #fff !important;
+  padding: 6px 20px !important;
+  border-radius: 20px;
+  width: 100px;
+  position: absolute;
+}
+.search-button {
+  text-decoration: none;
+  padding: 7px 10px !important;
+  right: 13%;
+}

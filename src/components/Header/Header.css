@@ -1,0 +1,23 @@
+.navbar {
+  background-color: #fff !important;
+}
+.logo {
+  width: 100px;
+}
+.text-black {
+  color: #333 !important;
+}
+.medium-font-size {
+  font-size: 14px;
+}
+.cart-icon {
+  margin-right: 10px;
+  font-size: 18px;
+}
+.signup-button {
+  background-color: #fa1945;
+  color: #fff !important;
+  padding: 6px 20px !important;
+  border-radius: 20px;
+  width: 100px;
+}
